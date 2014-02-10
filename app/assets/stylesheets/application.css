@@ -11,3 +11,17 @@
  *= require_self
  *= require_tree .
  */
+
+ .quote-style{
+	font-family: "Vollkorn", serif, Helvetica, Helvetica Neue;
+	color: white;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 36px;
+	line-height: 48px;
+	width: 700px;
+	height: 500px;
+	display: inline-block;
+	border-left: 0px;
+	margin: 0 auto;
+}

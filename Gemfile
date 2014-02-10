@@ -38,6 +38,8 @@ gem 'httparty'
 #another screen scrape
 gem 'nokogiri'
 
+gem 'twitter-bootstrap-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
